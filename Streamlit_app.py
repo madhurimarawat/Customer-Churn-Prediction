@@ -348,7 +348,7 @@ def info(data_name, algorithm, X, Y):
     st.write('Number of classes: ', len(np.unique(Y)))
     # Making a dataframe to store target name and value
     df = pd.DataFrame({"Target Value": list(np.unique(Y)),
-                       "Target Name": ['Not Fraud', 'Fraud']})
+                       "Target Name": ['Not Churn', 'Churn']})
     # Display the DataFrame without index labels
     st.write('Values and Name of Classes')
 
@@ -569,6 +569,3 @@ if __name__ == "__main__":
 
     elif nav == "Recommendations":
         Step_7_Recommendations()
-
-
-

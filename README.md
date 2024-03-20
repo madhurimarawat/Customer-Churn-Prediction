@@ -1,6 +1,10 @@
 # Customer-Churn-Prediction
 Contains Multipage Streamlit applications showing all steps of machine learning pipeline with additional recommendations at the end.
 
+<a href = "https://customer-churn-prediction-ml-pipeline.streamlit.app/"><img src = "https://github.com/madhurimarawat/Customer-Churn-Prediction/assets/105432776/630bd76a-0153-42f2-9e10-b36b498b7552" width="960" title = "Website Image 1" alt="Website Image 1"></a><br><br>
+
+<a href = "https://customer-churn-prediction-ml-pipeline.streamlit.app/"><img src = "https://github.com/madhurimarawat/Customer-Churn-Prediction/assets/105432776/f72ec2a6-342b-430c-927b-34c6bacc3f40" width="960" title = "Website Image 2" alt="Website Image 2"></a>
+
 ---
 ## Mode of Execution Used <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40">&nbsp;<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" title="Streamlit" alt="Streamlit" width="40" height="40">
 
@@ -78,6 +82,7 @@ You should be able to view the homepage of your app.
 --> A multipage streamlit application is made which shows all stages of ml pipeline.<br><br>
 --> I also did Data Visualization to show the working of this algorithms on the dataset.<br><br>
 --> I have deployed this website using streamlit.<br><br>
+--> Visit Website from : <a href="https://customer-churn-prediction-ml-pipeline.streamlit.app/">Customer Churn Prediction</a>
 
 ---
 

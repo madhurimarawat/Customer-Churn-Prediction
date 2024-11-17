@@ -1,9 +1,13 @@
 # Customer-Churn-Prediction
 Contains Multipage Streamlit applications showing all steps of machine learning pipeline with additional recommendations at the end.
 
-<a href = "https://customer-churn-prediction-ml-pipeline.streamlit.app/"><img src = "https://github.com/madhurimarawat/Customer-Churn-Prediction/assets/105432776/630bd76a-0153-42f2-9e10-b36b498b7552" width="960" title = "Website Image 1" alt="Website Image 1"></a><br><br>
+<a href = "https://customer-churn-prediction-ml-pipeline.streamlit.app/"><img src = "https://github.com/user-attachments/assets/c135e7ba-a30c-4f76-82a5-1e5b69620295" width="960" title = "Website Image 1" alt="Website Image 1"></a><br><br>
 
-<a href = "https://customer-churn-prediction-ml-pipeline.streamlit.app/"><img src = "https://github.com/madhurimarawat/Customer-Churn-Prediction/assets/105432776/f72ec2a6-342b-430c-927b-34c6bacc3f40" width="960" title = "Website Image 2" alt="Website Image 2"></a>
+<a href = "https://customer-churn-prediction-ml-pipeline.streamlit.app/"><img src = "https://github.com/user-attachments/assets/b176ae6e-402c-463e-938c-774f2e5b10a4" width="960" title = "Website Image 2" alt="Website Image 2"></a><br><br>
+
+<a href = "https://customer-churn-prediction-ml-pipeline.streamlit.app/"><img src = "https://github.com/user-attachments/assets/10ca9d3a-1d71-4227-8aec-ae722824abc9" width="960" title = "Website Image 3" alt="Website Image 3"></a><br><br>
+
+<a href = "https://customer-churn-prediction-ml-pipeline.streamlit.app/"><img src = "https://github.com/user-attachments/assets/abd285f5-a76e-4129-aa94-a5174f8cd34b" width="960" title = "Website Image 4" alt="Website Image 4"></a>
 
 ---
 ## Mode of Execution Used <img src="https://th.bing.com/th/id/R.c936445e15a65dfdba20a63e14e7df39?rik=fqWqO9kKIVlK7g&riu=http%3a%2f%2fassets.stickpng.com%2fimages%2f58481537cef1014c0b5e4968.png&ehk=dtrTKn1QsJ3%2b2TFlSfLR%2fxHdNYHdrqqCUUs8voipcI8%3d&risl=&pid=ImgRaw&r=0" title="PyCharm" alt="PyCharm" width="40" height="40">&nbsp;<img src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" title="Streamlit" alt="Streamlit" width="40" height="40">

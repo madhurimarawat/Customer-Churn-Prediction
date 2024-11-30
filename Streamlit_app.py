@@ -666,6 +666,12 @@ def display_background_image(url, opacity):
 # Main Function
 if __name__ == "__main__":
 
+    # Setting the page title
+    # This title will only be visible when running the app locally.
+    # In the deployed app, the title will be displayed as "Title - Streamlit," where "Title" is the one we provide.
+    # If we don't set the title, it will default to "Streamlit"
+    st.set_page_config(page_title="Customer Churn")
+
     # Call function to display the background image with opacity
     display_background_image(
         "https://emyrael.github.io/assets/img/churn.png",
